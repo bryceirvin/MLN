@@ -1,0 +1,8 @@
+librosa
+numpy
+os
+pandas
+sklearn
+splitfolders
+sys
+
