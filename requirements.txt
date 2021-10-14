@@ -1,8 +1,4 @@
-librosa
-numpy
-os
-pandas
-sklearn
-splitfolders
-sys
-
+librosa==0.8.0
+pandas==0.25.3
+sklearn==0.0
+split-folders==0.4.3
